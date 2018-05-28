@@ -9,7 +9,12 @@ Repository for the materials associated with the Bachelors Thesis "Exploring Gen
 - Dertat, A. Applied Deep Learning. 28.05.2018..pdf
 - Fraser, A. (2017). Information Extraction, Introduction..pdf
 - Ruder, S. An overview of gradient... 28.05.2018..pdf
-	
+
+## Programs
+- atis_data.py - Script loading and preparing the atis dataset
+- glove_data.py - Script loading and preparing the GloVe data
+- ga_lib.py - Python module defining classes for the Genetic Algorithm
+- ga_experiment.py - Python script defining the conducted experiment, including all things Keras
 	
 	
 	
