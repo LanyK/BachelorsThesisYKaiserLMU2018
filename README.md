@@ -1,4 +1,4 @@
-# BachelorsThesisYKaiserLMU2018
+# Bachelors Thesis. Yannick Kaiser, LMU, CIS, May 28. 2018.
 Repository for the materials associated with the Bachelors Thesis "Exploring Genetic Algorithms to optimize Convolutional Architectures for Slot Filling Tasks" at the LMU Munich, May 2018.
 
 # Content
