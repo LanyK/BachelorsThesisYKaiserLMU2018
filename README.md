@@ -20,6 +20,9 @@ Repository for the materials associated with the Bachelors Thesis "Exploring Gen
 	- TensorFlow (For GPU usage: CUDA, CuDNN)
 	- Keras
 	- matplotlib
+## Thesis
+- PDF version
+- LaTeX original
 	
 	
 	
