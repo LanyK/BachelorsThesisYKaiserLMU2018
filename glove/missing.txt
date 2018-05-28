@@ -1,0 +1,2 @@
+Due to the size of the GloVe word embedding data, it is not stored here.
+The embeddings are avaiable from nlp.stanford.edu/data/glove.6B.zip
