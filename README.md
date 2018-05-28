@@ -15,7 +15,11 @@ Repository for the materials associated with the Bachelors Thesis "Exploring Gen
 - glove_data.py - Script loading and preparing the GloVe data
 - ga_lib.py - Python module defining classes for the Genetic Algorithm
 - ga_experiment.py - Python script defining the conducted experiment, including all things Keras
-	
+### Python Dependencies
+- numpy, scipy
+- TensorFlow (For GPU usage: CUDA, CuDNN)
+- Keras
+- matplotlib
 	
 	
 	
